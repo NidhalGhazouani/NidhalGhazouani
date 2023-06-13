@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nidhal</h1>
 <h3 align="center">DevOps Engineer from Tunisia</h3>
 
-- 🔭 I’m currently working on **Cloudnet Hosting**
+- 🔭 I’m currently working at **Cloudnet Hosting**
 
 - 🌱 Learning all about **DevOps**
 
