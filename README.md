@@ -1,5 +1,8 @@
-<h1 align="center">Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My Name is Nidhal Ghazouani</h1>
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My Name is Nidhal Ghazouani
+<p align="center">
+  <h1 align="center"> Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="GIF" /> My Name is Nidhal Ghazouani </h1>
+</p>
+
+
 <h3 align="center">DevOps Engineer from Tunisia</h3>
 
 - 🔭 I’m currently working at **Cloudnet Hosting**
