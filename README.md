@@ -5,9 +5,12 @@
 
 <h3 align="center">DevOps Engineer from Tunisia</h3>
 
-- 🔭 I’m currently working at **Cloudnet Hosting**
+<!-- - 🔭 I’m currently working at **Cloudnet Hosting** -->
+- 🌱 Learning Never Stops 🚀
 
-- 🌱 Learning all about **DevOps**
+- 👨‍💻 Check out my personal portfolio : **<a href="https://nidhalghazouani.github.io/" target="_blank">Portfolio</a>**
+
+<!-- - 🌱 Learning all about **DevOps** -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
