@@ -19,8 +19,8 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="50" height="50"/> </a> 
-  <p align="left"> <a href="https://azure.microsoft.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/225px-Microsoft_Azure.svg.png?20211008202712" alt="azure" width="50" height="50"/> </a> 
-    <p align="left"> <a href="https://azure.microsoft.com" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/google-cloud-icon-2048x1646-7admxejz.png" alt="azure" width="50" height="50"/> </a> 
+<a href="https://azure.microsoft.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/225px-Microsoft_Azure.svg.png?20211008202712" alt="azure" width="50" height="50"/> </a> 
+ <a href="https://azure.microsoft.com" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/google-cloud-icon-2048x1646-7admxejz.png" alt="azure" width="50" height="50"/> </a> 
 
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
 <a href="https://www.openstack.org" target="_blank" rel="noreferrer"> <img width="48" height="45" src="https://img.icons8.com/color/48/openstack.png" alt="openstack"/> </a>
