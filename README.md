@@ -34,8 +34,4 @@
 <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/768px-Adobe_XD_CC_icon.svg.png" alt="xd" width="40" height="40"/> </a>
 
 </p>
- <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=NidhalGhazouani&hide_title=false&hide_rank=false&show_icons=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NidhalGhazouani&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=false" height="150" alt="languages graph" />
-  </div>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=NidhalGhazouani&show_icons=true&locale=en&layout=compact" alt="NidhalGhazouani" /></p>
