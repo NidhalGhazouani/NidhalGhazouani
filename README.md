@@ -10,6 +10,7 @@
 - 🌱 Learning Never Stops 🚀
 
 - 👨‍💻 Check out my personal portfolio : **<a href="https://nidhalghazouani.github.io/" target="_blank">Portfolio</a>**
+- 📝 Read my latest thoughts on tech & more : **<a href="https://nidhalblog1.wordpress.com/" target="_blank">Blog</a>**
 
 <!-- - 🌱 Learning all about **DevOps** -->
 
