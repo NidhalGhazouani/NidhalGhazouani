@@ -3,6 +3,8 @@
 </p>
 <h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=000000&random=false&width=435&lines=DevOps+Engineer+from+Tunisia;Ai Engineer;Cloud+Engineer;System+Engineer" /> </h3>
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=AI+Engineer;Cloud+%2F+DevOps+Engineer;System+Administrator" alt="Typing SVG" /></a>
+
 <!-- <h3 align="center">DevOps Engineer</h3> -->
 <!-- <h3 align="center">Cloud Engineer</h3> -->
 
