@@ -1,7 +1,7 @@
 <p align="center">
   <h1 align="center"> Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="GIF" /> My Name is Nidhal Ghazouani </h1>
 </p>
-<h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=AI+Agent+Engineer+%7C+Cloud+%26+DevOps+Engineer" alt="Typing SVG" /> </h3>
+<h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=2800&width=600&lines=AI+Agent+Engineer+%7C+Cloud+%26+DevOps+Engineer" alt="Typing SVG"  /> </h3>
 
 <!-- <h3 align="center">DevOps Engineer</h3> -->
 <!-- <h3 align="center">Cloud Engineer</h3> -->
