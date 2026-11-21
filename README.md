@@ -1,10 +1,10 @@
 <p align="center">
   <h1 align="center"> Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="GIF" /> My Name is Nidhal Ghazouani </h1>
 </p>
-<h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=000000&random=false&width=435&lines=DevOps+Engineer+from+Tunisia;Cloud+Engineer+from+Tunisia;System+Engineer+from+Tunisia;Web+Development+from+Tunisia" /> </h3>
+<h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=000000&random=false&width=435&lines=DevOps+Engineer+from+Tunisia;Ai Engineer;Cloud+Engineer;System+Engineer" /> </h3>
 
-<!-- <h3 align="center">DevOps Engineer from Tunisia</h3> -->
-<!-- <h3 align="center">Cloud Engineer from Tunisia</h3> -->
+<!-- <h3 align="center">DevOps Engineer</h3> -->
+<!-- <h3 align="center">Cloud Engineer</h3> -->
 
 <!-- - 🔭 I’m currently working at **Cloudnet Hosting** -->
 - 🌱 Learning Never Stops 🚀
